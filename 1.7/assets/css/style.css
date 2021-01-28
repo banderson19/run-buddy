@@ -86,10 +86,9 @@ section {
   padding: 20px;
   width: 500px;
   color: #024e76;
-  position: relative;
- 
-  /* bottom: 120px;
-  right: 140px; */
+  position: absolute;
+  bottom: 120px;
+  right: 140px;
 }
 
 .hero-form h3 {
@@ -121,6 +120,7 @@ section {
   padding: 10px 20px;
   font-size: 16px;
 }
+
 
 .intro {
   text-align: center;
@@ -228,6 +228,7 @@ section {
 }
 
 /* REACH OUT STYLES START */
+
 .contact {
   text-align: center;
   background: #024e76;
@@ -267,5 +268,6 @@ section {
 .contact-info a {
   color: #fce138;
 }
+
 
 /* REACH OUT STYLES END */
